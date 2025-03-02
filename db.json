@@ -1,0 +1,25 @@
+{
+
+    "users" : [
+    {
+        "id": 1,
+        "name": "Mohan",
+        "email": "mohaniptvinfo@gmail.com"
+
+    },
+    {
+        "id": 2,
+        "name": "Madhav",
+        "email": "madhav@gmail.com"
+
+    },
+    {
+        "id": 3,
+        "name": "Abhi",
+        "email": "abhi@gmail.com"
+
+    }
+  ]
+
+  
+}
